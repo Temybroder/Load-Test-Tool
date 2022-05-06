@@ -1,6 +1,6 @@
 # LoadTester
 
-This is a Node.js based Load Testing tool.
+This is a Custom Node.js based Load Testing tool.
 This tool fires requests in rapid successions
 to an end-point, and reports the response time
 for each endpoint, as well as the average time
