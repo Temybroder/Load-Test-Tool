@@ -8,5 +8,5 @@ for all the fired requests.
 
 This tool was orignially built with the intention
 of assessing the differences between efficiency
-of Horizontally-scaled multi-clustered servers as
-against Vertically scaled servers.
+of Horizontally-scaled multi-clustered servers
+against Vertically-scaled servers.
