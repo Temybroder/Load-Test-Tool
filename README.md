@@ -2,7 +2,7 @@
 
 This is a Custom Node.js based Load Testing tool.
 This tool fires requests in rapid successions
-to an end-point, and reports the response time
+to a given end-point, and reports the response time
 for each endpoint, as well as the average time
 for all the fired requests.
 
